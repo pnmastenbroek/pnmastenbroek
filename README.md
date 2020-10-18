@@ -6,9 +6,9 @@ At the beginning of 2019 I followed the "Microsoft Professional Program for Data
 
 Creative, solution-oriented, motivated and passionate are words that describe me. Making timetables and meeting deadlines is a second nature for me. I have great perseverance. As soon as I start a task, I'll finish it. While performing the task I test the objective and adjust it where necessary. I am an open and honest person and love to broaden my knowledge continuously.
 
-Currently I’m learning more about GitHub, Python, PowerBI, Tableau, BO & BIP, the last 3 for my work, the first 3 of personal interest.
-
-✉ P.N.Mastenbroek-Mvuria@kpnmail.nl
+🌱 Currently I’m learning more about BO & BIP, these are workrelated. GitHub, Python & PowerBI, these have my personal interest and from November Tableau will be added to my work tools and I have a personal interest for it.
+  
+📫 P.N.Mastenbroek-Mvuria@kpnmail.nl
 
 https://www.linkedin.com/in/pnmastenbroek/
 
