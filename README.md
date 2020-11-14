@@ -12,7 +12,8 @@ In my spare time I like to walk or read a book. Living actively, conscious and h
   
 📫 P.N.Mastenbroek-Mvuria@kpnmail.nl
 
-https://www.linkedin.com/in/pnmastenbroek/
+💻 https://www.linkedin.com/in/pnmastenbroek/
+🌐 My weblog https://www.kiwimaori.nl/
 
 <!--
 **Kiwimaori/Kiwimaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
