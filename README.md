@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Inspired by the large amount of data and the many possibilities to use it, I started to specialise myself in the area of data use and visualization. I have a job at TU Delft as a reporting specialist and I’m broadening my business skills. Privately I broaden my IT skills and data knowledge with online home trainings.
+🌟 Over the years I got inspired by the large amount of data and the many possibilities to use it. I specialized myself in data mining. Since 2020 I work at the Information Management department for Education & Student Affairs at TU Delft as a reporting officer and I'm broadening my business skills. Privately I broaden my IT skills and data knowledge with online home trainings and challenges.
 
-At the beginning of 2019 I followed the "Microsoft Professional Program for Data Science track" programme for 16 weeks full time, in the Johan Cruyff ArenA. Power BI, SQL, Python and Machine Learning were part of this study.
+🎓 At the beginning of 2019 I followed the "Microsoft Professional Program for Data Science track" programme for 16 weeks, in the Johan Cruyff ArenA. Power BI, SQL, Python and Machine Learning were part of this study. It was a fulltime programme offered by the Techionista Academy.
 
-🌱 Currently I’m learning more about BO & BIP, these are workrelated. GitHub, Python & PowerBI, these have my personal interest and from November 2020 Tableau will be added to my work tools and I have a personal interest for it.
+🌱 Currently I’m learning more about Oracle BI Publisher, SAP BusinessObjects, GitHub, Python and PowerBI The first two are these are work related and the other ones have my personal interest.
 
-Creative, solution-oriented, motivated and passionate are words that describe me. Making timetables and meeting deadlines is a second nature for me. I have great perseverance. As soon as I start a task, I'll finish it. While performing the task I test the objective and adjust it where necessary. I am an open and honest person and love to broaden my knowledge continuously.
+💎 Creative, solution-oriented, motivated and passionate are words that describe me. Making timetables and meeting deadlines is a second nature for me. I have great perseverance. As soon as I start a task, I'll finish it. While performing the task I test the objective and adjust it where necessary. I am an open and honest person and love to broaden my knowledge continuously.
 
-In my spare time I like to walk or read a book. Living actively, conscious and healthy is important to me. On a daily base I’m grateful for what I receive.
+In my spare time I like to walk 🚶‍♀️ or read a book 📖. Living actively, conscious and healthy is important to me. On a daily base I’m grateful 🙏🏻 for what I receive.
   
 📫 P.N.Mastenbroek-Mvuria@kpnmail.nl
 
